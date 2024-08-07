@@ -1,1 +1,1 @@
-# MSc-Project
+# MSc-Project Attention-based surgical activity recognition
